@@ -1,0 +1,11 @@
+# ninja log v5
+0	1116	667726424	CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o	4597cc23749ed65e
+1118	1400	667726424	../../../../build/intermediates/cxx/Debug/96u4s4c1/obj/armeabi-v7a/libapm-plugin-raw-data.so	9ce2794e248d7328
+0	10	0	clean	8b13ab9b51163043
+0	9	0	clean	8b13ab9b51163043
+40	1709	667728911	CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o	4597cc23749ed65e
+1709	1863	667728911	../../../../build/intermediates/cxx/Debug/96u4s4c1/obj/armeabi-v7a/libapm-plugin-raw-data.so	9ce2794e248d7328
+0	8	0	clean	8b13ab9b51163043
+0	9	0	clean	8b13ab9b51163043
+8	631	667734173	CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o	4597cc23749ed65e
+631	811	667734173	../../../../build/intermediates/cxx/Debug/96u4s4c1/obj/armeabi-v7a/libapm-plugin-raw-data.so	9ce2794e248d7328

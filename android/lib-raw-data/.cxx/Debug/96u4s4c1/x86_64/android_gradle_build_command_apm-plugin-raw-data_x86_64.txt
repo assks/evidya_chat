@@ -1,0 +1,7 @@
+Executable : C:\Users\Aniket\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Aniket\AndroidStudioProjects\API-Examples\Android\APIExample\lib-raw-data\.cxx\Debug\96u4s4c1\x86_64
+apm-plugin-raw-data
+jvmArgs : 
+

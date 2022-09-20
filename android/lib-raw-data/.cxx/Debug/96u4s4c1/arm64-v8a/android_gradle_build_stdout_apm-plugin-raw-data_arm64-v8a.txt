@@ -1,0 +1,24 @@
+ninja: Entering directory `C:\Users\Aniket\AndroidStudioProjects\API-Examples\Android\APIExample\lib-raw-data\.cxx\Debug\96u4s4c1\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o
+In file included from ../../../../src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp:6:
+../../../../src/main/cpp/include/IAgoraRtcEngine.h:11032:28: warning: 'VOICE_CHANGER_PRESET' is deprecated [-Wdeprecated-declarations]
+  int setLocalVoiceChanger(VOICE_CHANGER_PRESET voiceChanger);
+                           ^
+../../../../src/main/cpp/include/IAgoraRtcEngine.h:1158:6: note: 'VOICE_CHANGER_PRESET' has been explicitly marked deprecated here
+enum AGORA_DEPRECATED_ATTRIBUTE VOICE_CHANGER_PRESET {
+     ^
+../../../../src/main/cpp/include/AgoraBase.h:50:51: note: expanded from macro 'AGORA_DEPRECATED_ATTRIBUTE'
+#define AGORA_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                  ^
+In file included from ../../../../src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp:6:
+../../../../src/main/cpp/include/IAgoraRtcEngine.h:11033:33: warning: 'AUDIO_REVERB_PRESET' is deprecated [-Wdeprecated-declarations]
+  int setLocalVoiceReverbPreset(AUDIO_REVERB_PRESET reverbPreset);
+                                ^
+../../../../src/main/cpp/include/IAgoraRtcEngine.h:1242:6: note: 'AUDIO_REVERB_PRESET' has been explicitly marked deprecated here
+enum AGORA_DEPRECATED_ATTRIBUTE AUDIO_REVERB_PRESET {
+     ^
+../../../../src/main/cpp/include/AgoraBase.h:50:51: note: expanded from macro 'AGORA_DEPRECATED_ATTRIBUTE'
+#define AGORA_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                  ^
+2 warnings generated.
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cxx\Debug\96u4s4c1\obj\arm64-v8a\libapm-plugin-raw-data.so

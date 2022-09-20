@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Aniket\Downloads\evidya\android\lib-raw-data\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

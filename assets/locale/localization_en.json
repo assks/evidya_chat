@@ -1,0 +1,22 @@
+{
+  "key_password": "Password",
+  "key_must_be_at_least_6_characters": "Must be at least 6 characters",
+  "key_email": "Email",
+  "key_please_enter_valid_email": "Please enter valid email",
+  "key_last_name": "Last name",
+  "key_enter_last_name": "Enter last name",
+  "key_first_name": "First name",
+  "key_enter_first_name": "Enter first name",
+  "key_next": "Next",
+
+  "Don`t have an account?": "Don`t have an account?",
+  "Please enter the email": "Please enter the email",
+  "The password must be min 8 character and Alpha Numeric": "The password must be min 8 character and Alpha Numeric",
+  "Something went wrong": "Something went wrong",
+  "welcome": "Welcome",
+  "SignIn to continue!": "SignIn to continue!",
+  "Enter the email associated with your account and we'll send  an email with instructions to reset your password.": "Enter the email associated with your account and we'll send  an email with instructions to reset your password.",
+  "By contuning Sign up you are agree to following ": "By contuning Sign up you are agree to following ",
+  "without reservation": "without reservation. ",
+  "Already have a account?":"Already have a account?"
+}

@@ -1,0 +1,3 @@
+C:/Users/Aniket/demo/android/lib-raw-data/.cxx/Debug/5nb3n5no/x86/CMakeFiles/apm-plugin-raw-data.dir
+C:/Users/Aniket/demo/android/lib-raw-data/.cxx/Debug/5nb3n5no/x86/CMakeFiles/edit_cache.dir
+C:/Users/Aniket/demo/android/lib-raw-data/.cxx/Debug/5nb3n5no/x86/CMakeFiles/rebuild_cache.dir

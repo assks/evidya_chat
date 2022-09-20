@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\Aniket\\AndroidStudioProjects\\API-Examples\\Android\\APIExample\\lib-raw-data\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Aniket\\AndroidStudioProjects\\API-Examples\\Android\\APIExample\\lib-raw-data\\.cxx\\Debug\\96u4s4c1\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Aniket\\AndroidStudioProjects\\API-Examples\\Android\\APIExample\\lib-raw-data\\.cxx\\Debug\\96u4s4c1\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "apm-plugin-raw-data-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Aniket\\AndroidStudioProjects\\API-Examples\\Android\\APIExample\\lib-raw-data\\.cxx\\Debug\\96u4s4c1\\x86",
+        "apm-plugin-raw-data"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "apm-plugin-raw-data",
+      "output": "C:\\Users\\Aniket\\AndroidStudioProjects\\API-Examples\\Android\\APIExample\\lib-raw-data\\build\\intermediates\\cxx\\Debug\\96u4s4c1\\obj\\x86\\libapm-plugin-raw-data.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,28 @@
+                    Executable : C:\Users\Aniket\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\Aniket\demo\android\lib-raw-data
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=C:\Users\Aniket\AppData\Local\Android\sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=C:\Users\Aniket\AppData\Local\Android\sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Aniket\AppData\Local\Android\sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Aniket\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Aniket\demo\build\lib-raw-data\intermediates\cxx\Debug\5nb3n5no\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\Aniket\demo\build\lib-raw-data\intermediates\cxx\Debug\5nb3n5no\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\Aniket\demo\android\lib-raw-data\.cxx\Debug\5nb3n5no\arm64-v8a
+-GNinja
+-DANDROID_STL=c++_static
+-DANDROID_PLATFORM=android-15
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL_FORCE_FEATURES=OFF
+-DANDROID_ARM_NEON=TRUE
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

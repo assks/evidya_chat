@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\android\\lib-raw-data\\CMakeLists.txt",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "apm-plugin-raw-data-Release-armeabi-v7a": {
+      "artifactName": "apm-plugin-raw-data",
+      "buildCommand": "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\release\\armeabi-v7a\" apm-plugin-raw-data",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\build\\lib-raw-data\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libapm-plugin-raw-data.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,3 @@
+C:/Users/Aniket/OneDrive/Desktop/evidya/android/lib-raw-data/.cxx/cmake/release/x86/CMakeFiles/apm-plugin-raw-data.dir
+C:/Users/Aniket/OneDrive/Desktop/evidya/android/lib-raw-data/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/Aniket/OneDrive/Desktop/evidya/android/lib-raw-data/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

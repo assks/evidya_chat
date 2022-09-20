@@ -1,0 +1,64 @@
+io/agora/rtc/ss/BuildConfig.java
+ io.agora.rtc.ss.BuildConfig
+io/agora/rtc/ss/gles/SrcConnector.java
+ io.agora.rtc.ss.gles.SrcConnector
+io/agora/rtc/ss/gles/ImgTexFormat.java
+ io.agora.rtc.ss.gles.ImgTexFormat
+io/agora/rtc/ss/gles/WindowSurface.java
+ io.agora.rtc.ss.gles.WindowSurface
+io/agora/rtc/ss/impl/ScreenSharingService.java
+ io.agora.rtc.ss.impl.ScreenSharingService
+ io.agora.rtc.ss.impl.ScreenSharingService$1
+ io.agora.rtc.ss.impl.ScreenSharingService$2
+ io.agora.rtc.ss.impl.ScreenSharingService$3
+ io.agora.rtc.ss.impl.ScreenSharingService$4
+io/agora/rtc/ss/gles/EglCore.java
+ io.agora.rtc.ss.gles.EglCore
+io/agora/rtc/ss/gles/AVFrameBase.java
+ io.agora.rtc.ss.gles.AVFrameBase
+io/agora/rtc/ss/impl/ScreenCaptureSource.java
+ io.agora.rtc.ss.impl.ScreenCaptureSource
+io/agora/rtc/ss/ScreenSharingClient.java
+ io.agora.rtc.ss.ScreenSharingClient
+ io.agora.rtc.ss.ScreenSharingClient$1
+ io.agora.rtc.ss.ScreenSharingClient$2
+ io.agora.rtc.ss.ScreenSharingClient$IStateListener
+io/agora/rtc/ss/Constant.java
+ io.agora.rtc.ss.Constant
+io/agora/rtc/ss/gles/GLRender.java
+ io.agora.rtc.ss.gles.GLRender
+ io.agora.rtc.ss.gles.GLRender$1
+ io.agora.rtc.ss.gles.GLRender$2
+ io.agora.rtc.ss.gles.GLRender$3
+ io.agora.rtc.ss.gles.GLRender$4
+ io.agora.rtc.ss.gles.GLRender$5
+ io.agora.rtc.ss.gles.GLRender$GLRenderListener
+ io.agora.rtc.ss.gles.GLRender$ScreenshotListener
+io/agora/rtc/ss/aidl/IScreenSharing.java
+ io.agora.rtc.ss.aidl.IScreenSharing
+ io.agora.rtc.ss.aidl.IScreenSharing$Default
+ io.agora.rtc.ss.aidl.IScreenSharing$Stub
+ io.agora.rtc.ss.aidl.IScreenSharing$Stub$Proxy
+io/agora/rtc/ss/gles/EglSurfaceBase.java
+ io.agora.rtc.ss.gles.EglSurfaceBase
+io/agora/rtc/ss/gles/ImgTexFrame.java
+ io.agora.rtc.ss.gles.ImgTexFrame
+io/agora/rtc/ss/gles/GlUtil.java
+ io.agora.rtc.ss.gles.GlUtil
+io/agora/rtc/ss/aidl/INotification.java
+ io.agora.rtc.ss.aidl.INotification
+ io.agora.rtc.ss.aidl.INotification$Default
+ io.agora.rtc.ss.aidl.INotification$Stub
+ io.agora.rtc.ss.aidl.INotification$Stub$Proxy
+io/agora/rtc/ss/impl/ScreenCapture.java
+ io.agora.rtc.ss.impl.ScreenCapture
+ io.agora.rtc.ss.impl.ScreenCapture$1
+ io.agora.rtc.ss.impl.ScreenCapture$2
+ io.agora.rtc.ss.impl.ScreenCapture$3
+ io.agora.rtc.ss.impl.ScreenCapture$MainHandler
+ io.agora.rtc.ss.impl.ScreenCapture$OnScreenCaptureListener
+ io.agora.rtc.ss.impl.ScreenCapture$ScreenCaptureAssistantActivity
+io/agora/rtc/ss/impl/NotificationHelper.java
+ io.agora.rtc.ss.impl.NotificationHelper
+io/agora/rtc/ss/gles/SinkConnector.java
+ io.agora.rtc.ss.gles.SinkConnector

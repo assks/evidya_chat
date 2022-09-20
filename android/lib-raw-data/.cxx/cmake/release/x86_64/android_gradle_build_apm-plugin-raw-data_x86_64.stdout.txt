@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Aniket\OneDrive\Desktop\evidya\android\lib-raw-data\.cxx\cmake\release\x86_64'
+ninja: no work to do.

@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Aniket\demo\android\lib-raw-data\.cxx\Debug\5nb3n5no\armeabi-v7a'
+ninja: no work to do.

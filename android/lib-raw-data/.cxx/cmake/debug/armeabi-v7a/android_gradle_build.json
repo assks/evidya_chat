@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Aniket/Downloads/evidya/android/lib-raw-data/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --sysroot=C:/Users/Aniket/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dapm_plugin_raw_data_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Aniket\\Downloads\\evidya\\android\\lib-raw-data\\CMakeLists.txt",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Aniket\\Downloads\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Aniket\\Downloads\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "apm-plugin-raw-data-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Aniket\\Downloads\\evidya\\android\\lib-raw-data\\.cxx\\cmake\\debug\\armeabi-v7a\" apm-plugin-raw-data",
+      "buildType": "debug",
+      "toolchain": "227810316",
+      "abi": "armeabi-v7a",
+      "artifactName": "apm-plugin-raw-data",
+      "files": [
+        {
+          "src": "C:\\Users\\Aniket\\Downloads\\evidya\\android\\lib-raw-data\\src\\main\\cpp\\io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Aniket\\Downloads\\evidya\\build\\lib-raw-data\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libapm-plugin-raw-data.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "227810316": {
+      "cppCompilerExecutable": "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

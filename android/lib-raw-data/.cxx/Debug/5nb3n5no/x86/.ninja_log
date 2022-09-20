@@ -1,0 +1,9 @@
+# ninja log v5
+3	1093	667900158	CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o	d309f30d220ca2ea
+1096	3631	667900160	C:/Users/Aniket/demo/build/lib-raw-data/intermediates/cxx/Debug/5nb3n5no/obj/x86/libapm-plugin-raw-data.so	f238b119614cd6f
+8	243	667900693	C:/Users/Aniket/demo/build/lib-raw-data/intermediates/cxx/Debug/5nb3n5no/obj/x86/libapm-plugin-raw-data.so	f238b119614cd6f
+0	10	0	clean	3f49641f42803f57
+0	9	0	clean	3f49641f42803f57
+0	8	0	clean	3f49641f42803f57
+7	655	667905908	CMakeFiles/apm-plugin-raw-data.dir/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o	d309f30d220ca2ea
+655	866	667905908	C:/Users/Aniket/demo/build/lib-raw-data/intermediates/cxx/Debug/5nb3n5no/obj/x86/libapm-plugin-raw-data.so	f238b119614cd6f

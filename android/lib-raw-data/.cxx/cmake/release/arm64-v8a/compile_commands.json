@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Aniket/OneDrive/Desktop/evidya/android/lib-raw-data/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\Users\\Aniket\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/Aniket/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dapm_plugin_raw_data_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -DNDEBUG  -fPIC   -o CMakeFiles\\apm-plugin-raw-data.dir\\src\\main\\cpp\\io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp.o -c C:\\Users\\Aniket\\OneDrive\\Desktop\\evidya\\android\\lib-raw-data\\src\\main\\cpp\\io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp",
+  "file": "C:/Users/Aniket/OneDrive/Desktop/evidya/android/lib-raw-data/src/main/cpp/io_agora_advancedvideo_rawdata_MediaPreProcessing.cpp"
+}
+]

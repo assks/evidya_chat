@@ -1,0 +1,23 @@
+{
+
+  "key_password": "पारण शब्द",
+  "key_must_be_at_least_6_characters": "कम से कम 6 अक्षर का होना चाहिए",
+  "key_email": "ईमेल",
+  "key_please_enter_valid_email": "कृपया वैध ईमेल दर्ज़ करें",
+  "key_last_name": "अंतिम नाम",
+  "key_enter_last_name": "अंतिम नाम दर्ज करो",
+  "key_first_name": "पहला नाम",
+  "key_enter_first_name": "पहला नाम डालो",
+  "key_next": "आगामी",
+
+  "Don`t have an account?": "Tiada akaun?",
+  "Please enter the email": "Sila masukkan e-mel",
+  "The password must be min 8 character and Alpha Numeric": "Kata laluan mestilah min 8 aksara dan Alpha Numeric",
+  "Something went wrong": "Sesuatu telah berlaku",
+  "welcome": "selamat datang",
+  "SignIn to continue!": "Log Masuk untuk meneruskan!",
+  "Enter the email associated with your account and we'll send  an email with instructions to reset your password.": "Masukkan e-mel yang dikaitkan dengan akaun anda dan kami akan menghantar e-mel dengan arahan untuk menetapkan semula kata laluan anda.",
+  "By contuning Sign up you are agree to following ": "Dengan meneruskan Daftar anda bersetuju untuk mengikuti",
+  "without reservation": "tanpa sebarang tempahan. ",
+  "Already have a account?": "Sudah mempunyai akaun?"
+}

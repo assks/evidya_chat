@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\Aniket\\demo\\android\\lib-raw-data\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Aniket\\demo\\android\\lib-raw-data\\.cxx\\Debug\\5nb3n5no\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Aniket\\demo\\android\\lib-raw-data\\.cxx\\Debug\\5nb3n5no\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "apm-plugin-raw-data-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Aniket\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Aniket\\demo\\android\\lib-raw-data\\.cxx\\Debug\\5nb3n5no\\armeabi-v7a",
+        "apm-plugin-raw-data"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "apm-plugin-raw-data",
+      "output": "C:\\Users\\Aniket\\demo\\build\\lib-raw-data\\intermediates\\cxx\\Debug\\5nb3n5no\\obj\\armeabi-v7a\\libapm-plugin-raw-data.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

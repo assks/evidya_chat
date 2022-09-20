@@ -1,0 +1,7 @@
+Executable : C:\Users\Aniket\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Aniket\OneDrive\Desktop\evidya\android\lib-raw-data\.cxx\cmake\release\x86
+apm-plugin-raw-data
+jvmArgs : 
+

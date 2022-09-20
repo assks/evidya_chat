@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "119301962380",
+    "project_id": "bvidya-36b76",
+    "storage_bucket": "bvidya-36b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119301962380:android:5671a204619bc8b01299a9",
+        "android_client_info": {
+          "package_name": "com.bvidya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119301962380-kkavcfo1a54hbhti2s9l0hncvpgtf0bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bvidya",
+            "certificate_hash": "adabc35d6ed8ebb55070a0f319d6131a3dac6654"
+          }
+        },
+        {
+          "client_id": "119301962380-ctt4bc2nj84u69pavfvfjnma5sorboir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fRnkRb67JCQfl5H21oqPCvl6QYYjFro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119301962380-ctt4bc2nj84u69pavfvfjnma5sorboir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119301962380-fuqlmp6si5ft3874ld5shsq1mi1je61f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bvidya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
